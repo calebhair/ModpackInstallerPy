@@ -1,4 +1,4 @@
-# Modpack Installer Py, because what if I made it in Java?
+# Modpack Installer Py, because what if I make it in Java?
 This is a simple, light tool to guide users through installing a Minecraft modpack, while still using the native Minecraft launcher, because other installers are quite heavy.
 
 Users download the modpack from the link provided, and are guided through passing it to the application, which puts the files in the location (which effectively installs the modpack), while backing up any files being replaced.
